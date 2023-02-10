@@ -1,6 +1,6 @@
-# ARROW DB
+# ARROW 
 
-Add/Update/Delete Suppliers
+Automatización del registro de numero de parte de los componentes vendidos.
 
 ## Project setup
 
