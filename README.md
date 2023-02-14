@@ -1,4 +1,4 @@
-# ARROW 
+# Proyecto A2
 
 Automatización del registro de numero de parte de los componentes vendidos.
 
